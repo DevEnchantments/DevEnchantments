@@ -1,42 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:1E90FF,100:000C40&text=Hello%20World!%20I%20am%20Abdulwahed%20Z.&section=header&reversal=true&fontAlign=38&textBg=false&fontColor=FFFFFF&animation=twinkling&desc=Software%20Engineer%20%7C%20System%20Builder%20%7C%20AI%20Enthusiast&descAlignY=33&fontSize=40&fontAlignY=14&descAlign=28" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1E90FF,100:000C40&text=Hi%2C%20I'm%20Fares%20Al%20Areefi&fontColor=FFFFFF&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20Distributed%20Systems&descSize=18&descAlignY=52&animation=fadeIn" width="100%" alt="Header banner" />
 
-# 💫 About Me
-👨‍💻 **Currently working on**  
-Full-stack applications and AI-powered features.
+<div align="center">
 
-🤝 **Looking to collaborate on**  
-Open source projects and innovative web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+Mobile+%7C+Backend+Developer;Distributed+Systems+%26+AI+Integrations;42+Programmer+%E2%80%94+C+%26+Unix+under+the+hood)](https://github.com/DevEnchantments)
 
-🆘 **Looking for help with**  
-System design, scalable architectures, and engineering best practices.
+**Software Engineering Student | Full-Stack, Mobile & AI Developer | 42 Programmer**
 
-🌱 **Currently learning**  
-Artificial Intelligence and backend architecture.
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevEnchantments&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=DevEnchantments&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-💬 **Ask me about**  
-JavaScript, Node.js, and building real-world projects.
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevEnchantments&theme=tokyonight" alt="Top languages by commit" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevEnchantments&theme=tokyonight" alt="Top languages by repo" />
 
-⚡ **Fun fact**  
-I enjoy turning random ideas into working software.
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
 
+</div>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amz04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zreikabdulwahed@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amz04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+I'm a versatile developer who likes building practical, reliable software and understanding how complete systems fit together — from a React component down to a file descriptor.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amz04&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
+- 💻 **Full-stack engineering** — React & TypeScript frontends, NestJS / Node.js / Spring Boot APIs, PostgreSQL schemas, auth & JWT, CI
+- 📱 **Mobile development** — React Native & Expo; health tech with barcode scanning, Apple HealthKit, and nutrition APIs
+- 🛰️ **Distributed systems** — Redis (caching, distributed locks, sessions), pub/sub event brokers, QUIC/TCP/UDP, WebSockets, concurrency & scalability
+- 🔐 **Application security** — SSL/TLS, JWT & role-based access, TOTP MFA, rate limiting, input validation, CORS
+- 🤖 **AI integrations** — building AI-assisted features that combine external APIs and structured data into real user experiences
+- ⚙️ **Systems programming** — C, manual memory management, Unix I/O, Makefiles (42 curriculum)
+- 📄 Co-authored a research paper on gamification in engineering education, presented at **IEEE INTEC'24** (Chicago, USA)
 
-<hr>
+## 💻 Tech Stack
 
-<!--QUOTE-->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+**Languages**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=0:1E90FF,100:000C40&section=footer&reversal=false&fontAlign=10&textBg=false&fontColor=FFFFFF&animation=twinkling&descAlignY=31&fontSize=40&fontAlignY=14&descAlign=71" width="100%" alt="Footer"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,c,cpp,cs,html,css,bash" alt="Languages" />
+
+**Frontend & Mobile** — React, React Native, Expo, MEAN & MERN stacks
+
+<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind" alt="Frontend and Mobile" />
+
+**Backend, Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,postgres,mysql,mongodb,redis,supabase,firebase,aws,docker,kubernetes" alt="Backend, Databases and Cloud" />
+
+**Data & AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="Data and AI" /> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Tools, IDEs & Testing**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jest,postman,maven,linux,vim,vscode,idea,eclipse,androidstudio,figma" alt="Tools and IDEs" />
+
+**Additional Technologies**
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+## 🌱 Currently
+
+- 🧠 Deepening systems programming through the **42 curriculum**
+- 🛰️ Exploring distributed architectures — event streaming, caching strategies, and scalability patterns
+- 🤖 Building more AI-integrated features into real applications
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresmohammed2015@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E90FF,100:000C40&section=footer" width="100%" alt="Footer banner" />
